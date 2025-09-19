@@ -1,0 +1,90 @@
+{
+  "url": "https://www.gsmarena.com/huawei_matepad_12_x_(2025)-14169.php",
+  "name": "Huawei MatePad 12 X (2025)",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-12x-2025.jpg",
+  "highlights": [
+    "Released 2025, September 19\n555g, 5.9mm thickness\nHarmonyOS 4.3\n256GB storage, no card slot",
+    "0.4%\n393 HITS",
+    "0\nBECOME A FAN",
+    "12.0\"\n2800x1840 pixels",
+    "50MP\n2160p",
+    "12GB RAM\nKirin T92B",
+    "10100mAh\n66W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "No cellular connectivity",
+      "2G bands": "N/A",
+      "3G bands": "N/A",
+      "4G bands": "N/A",
+      "GPRS": "No",
+      "EDGE": "No"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 19",
+      "Status": "Available. Released 2025, September 19"
+    },
+    "BODY": {
+      "Dimensions": "270 x 183 x 5.9 mm (10.63 x 7.20 x 0.23 in)",
+      "Weight": "555 g (1.22 lb)",
+      "SIM": "No",
+      "": "Stylus support (magnetic)"
+    },
+    "DISPLAY": {
+      "Type": "IPS LCD, 144Hz, 1000 nits (peak), HDR Vivid",
+      "Size": "12.0 inches, 426.4 cm2 (~86.3% screen-to-body ratio)",
+      "Resolution": "2800 x 1840 pixels, 3:2 ratio (~279 ppi density)",
+      "Protection": "Mohs level 4",
+      "": "PaperMatte Display (optional)"
+    },
+    "PLATFORM": {
+      "OS": "HarmonyOS 4.3",
+      "Chipset": "Kirin T92B",
+      "CPU": "Octa-core"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM"
+    },
+    "MAIN CAMERA": {
+      "Single": "50 MP, f/1.8, (wide), PDAF",
+      "Features": "LED flash",
+      "Video": "4K@30fps, 1080p@30fps"
+    },
+    "SELFIE CAMERA": {
+      "Single": "8 MP, f/2.2",
+      "Video": "1080p@30fps"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers (6 speakers)",
+      "3.5mm jack": "No",
+      "": "Audio Vivid"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+      "Bluetooth": "5.2, A2DP, LE",
+      "Positioning": "No",
+      "NFC": "No",
+      "Radio": "No",
+      "USB": "USB Type-C 3.1, OTG, magnetic accessory connector"
+    },
+    "FEATURES": {
+      "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+    },
+    "BATTERY": {
+      "Type": "Li-Po 10100 mAh",
+      "Charging": "66W wired"
+    },
+    "MISC": {
+      "Colors": "White, Greenery",
+      "Models": "LRT-W09",
+      "Price": "About 690 EUR"
+    },
+    "EU LABEL": {
+      "Energy": "Class G",
+      "Battery": "94:00h endurance, 1000 cycles",
+      "Free fall": "Class E (0 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}

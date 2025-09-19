@@ -1,0 +1,1489 @@
+[
+  {
+    "name": "Huawei Watch GT 6 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-gt6-pro.jpg",
+    "highlights": [
+      "Released 2025, September 19\n54.7g, 11.3mm thickness\nHarmonyOS 6.0\nUnspecified storage, no card slot",
+      "0.1%\n1,375 HITS",
+      "1\nBECOME A FAN",
+      "1.47\"\n466x466 pixels",
+      "NO",
+      "",
+      "867mAh\n10W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 19",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "45.6 x 45.6 x 11.3 mm (1.80 x 1.80 x 0.44 in)",
+        "Weight": "54.7 g (1.94 oz)",
+        "Build": "Glass front, titanium alloy frame, ceramic back",
+        "SIM": "No",
+        "": "40m swimproof/diving (EN13319)\nIP69 dust tight and water resistant (high pressure water jets; immersible up to 50m/5ATM for 10 min)\nECG certified"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 3000 nits (peak)",
+        "Size": "1.47 inches",
+        "Resolution": "466 x 466 pixels (~317 ppi density)"
+      },
+      "PLATFORM": {
+        "OS": "HarmonyOS 6.0"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "Unspecified"
+      },
+      "CAMERA": {
+        "": "No"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "No",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B1a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "FEATURES": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 867 mAh",
+        "Charging": "10W wireless"
+      },
+      "MISC": {
+        "Colors": "Silver, Brown, Black",
+        "Models": "ATM-B29",
+        "Price": "About 380 EUR"
+      }
+    }
+  },
+  {
+    "name": "Huawei Watch GT 6",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-watch-gt6.jpg",
+    "highlights": [
+      "Released 2025, September 19\n51.3g or 37.5g, 11mm thickness\nHarmonyOS 6.0\nUnspecified storage, no card slot",
+      "0.7%\n950 HITS",
+      "1\nBECOME A FAN",
+      "1.47\"\n466x466 pixels",
+      "NO",
+      "",
+      "867mAh\n10W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 19",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "46 x 46 x 11 mm (1.81 x 1.81 x 0.43 in)",
+        "Weight": "51.3 g or 37.5 g (1.34 oz)",
+        "Build": "Glass front, stainless steel frame",
+        "SIM": "No",
+        "": "IP69 dust tight and water resistant (high pressure water jets; immersible up to 50m/5ATM for 10 min)"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 3000 nits (peak)",
+        "Size": "1.47 inches",
+        "Resolution": "466 x 466 pixels (~317 ppi density)"
+      },
+      "PLATFORM": {
+        "OS": "HarmonyOS 6.0"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "Unspecified"
+      },
+      "CAMERA": {
+        "": "No"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "No",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B1a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "FEATURES": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2, thermometer (body temperature)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 867 mAh",
+        "Charging": "10W wireless"
+      },
+      "MISC": {
+        "Colors": "Black, Silver, Gold",
+        "Price": "About 260 EUR"
+      }
+    }
+  },
+  {
+    "name": "Huawei MatePad 12 X (2025)",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-matepad-12x-2025.jpg",
+    "highlights": [
+      "Released 2025, September 19\n555g, 5.9mm thickness\nHarmonyOS 4.3\n256GB storage, no card slot",
+      "N/A\n195 HITS",
+      "0\nBECOME A FAN",
+      "12.0\"\n2800x1840 pixels",
+      "50MP\n2160p",
+      "12GB RAM\nKirin T92B",
+      "10100mAh\n66W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 19",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "270 x 183 x 5.9 mm (10.63 x 7.20 x 0.23 in)",
+        "Weight": "555 g (1.22 lb)",
+        "SIM": "No",
+        "": "Stylus support (magnetic)"
+      },
+      "DISPLAY": {
+        "Type": "IPS LCD, 144Hz, 1000 nits (peak), HDR Vivid",
+        "Size": "12.0 inches, 426.4 cm2 (~86.3% screen-to-body ratio)",
+        "Resolution": "2800 x 1840 pixels, 3:2 ratio (~279 ppi density)",
+        "Protection": "Mohs level 4",
+        "": "PaperMatte Display (optional)"
+      },
+      "PLATFORM": {
+        "OS": "HarmonyOS 4.3",
+        "Chipset": "Kirin T92B",
+        "CPU": "Octa-core"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM"
+      },
+      "MAIN CAMERA": {
+        "Single": "50 MP, f/1.8, (wide), PDAF",
+        "Features": "LED flash",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "SELFIE CAMERA": {
+        "Single": "8 MP, f/2.2",
+        "Video": "1080p@30fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers (6 speakers)",
+        "3.5mm jack": "No",
+        "": "Audio Vivid"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG, magnetic accessory connector"
+      },
+      "FEATURES": {
+        "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+      },
+      "BATTERY": {
+        "Type": "Li-Po 10100 mAh",
+        "Charging": "66W wired"
+      },
+      "MISC": {
+        "Colors": "White, Greenery",
+        "Models": "LRT-W09",
+        "Price": "About 690 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class G",
+        "Battery": "94:00h endurance, 1000 cycles",
+        "Free fall": "Class E (0 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy A17 4G",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a17.jpg",
+    "highlights": [
+      "Released 2025, September 18\n190g, 7.5mm thickness\nAndroid 15, up to 6 major upgrades, One UI 7\n128GB/256GB storage, microSDXC",
+      "18%\n29,640 HITS",
+      "9\nBECOME A FAN",
+      "6.7\"\n1080x2340 pixels",
+      "50MP\n1080p",
+      "4/8GB RAM\nHelio G99",
+      "5000mAh\n25W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 18",
+        "Status": "Available. Released 2025, September 18"
+      },
+      "BODY": {
+        "Dimensions": "164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front (Gorilla Glass Victus+), plastic back, plastic frame",
+        "SIM": "Nano-SIM\nNano-SIM + Nano-SIM",
+        "": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "DISPLAY": {
+        "Type": "Super AMOLED, 90Hz",
+        "Size": "6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus+, Mohs level 5"
+      },
+      "PLATFORM": {
+        "OS": "Android 15, up to 6 major Android upgrades, One UI 7",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "MEMORY": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS\n5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "SELFIE CAMERA": {
+        "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio (market/region dependent)",
+        "USB": "USB Type-C 2.0"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+        "": "Virtual proximity sensing"
+      },
+      "BATTERY": {
+        "Type": "5000 mAh",
+        "Charging": "25W wired"
+      },
+      "MISC": {
+        "Colors": "Black, Gray, Light blue",
+        "Models": "SM-A175F, SM-A175F/DS, SM-A175M, SM-A175M/DS, SM-A175F/DSB",
+        "SAR EU": "0.37 W/kg (head)     1.18 W/kg (body)",
+        "Price": "£ 169.00"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "51:33h endurance, 1200 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Xiaomi Redmi 15C",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15c.jpg",
+    "highlights": [
+      "Released 2025, September 18\n211g, 8.2mm thickness\nAndroid 15, HyperOS 2\n128GB/256GB storage, microSDXC",
+      "5.3%\n134,888 HITS",
+      "18\nBECOME A FAN",
+      "6.9\"\n720x1600 pixels",
+      "50MP\n1080p",
+      "4GB RAM\nDimensity 6300",
+      "6000mAh\n33W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 18",
+        "Status": "Available. Released 2025, September 18"
+      },
+      "BODY": {
+        "Dimensions": "173.2 x 81.1 x 8.2 mm (6.82 x 3.19 x 0.32 in)",
+        "Weight": "211 g (7.44 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "DISPLAY": {
+        "Type": "IPS LCD, 120Hz, 810 nits (HBM)",
+        "Size": "6.9 inches, 114.9 cm2 (~81.8% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)",
+        "Protection": "Mohs level 6"
+      },
+      "PLATFORM": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "MEMORY": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 256GB 4GB RAM",
+        "": "eMMC 5.1"
+      },
+      "MAIN CAMERA": {
+        "Dual": "50 MP, f/1.8, 28mm (wide), 1/2.76\", 0.64µm, PDAF\nAuxiliary lens",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "SELFIE CAMERA": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "": "24-bit/192kHz Hi-Res audio"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+        "": "Virtual proximity sensing"
+      },
+      "BATTERY": {
+        "Type": "6000 mAh",
+        "Charging": "33W wired, PD, 50% in 28 min\n10W reverse wired"
+      },
+      "MISC": {
+        "Colors": "Midnight Black, Mint Green, Dusk Purple",
+        "Models": "2508CRN2BC, 2508CRN2BG, 25062RN2DE",
+        "Price": "€ 148.76 / £ 165.06"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "62:06h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Realme 15 Lite",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-15.jpg",
+    "highlights": [
+      "Not announced yet\n185g, 7.6mm thickness\nAndroid 15, Realme UI 6.0\n128GB/256GB storage, no card slot",
+      "12%\n20,000 HITS",
+      "9\nBECOME A FAN",
+      "6.67\"\n1080x2400 pixels",
+      "50MP\n2160p",
+      "8GB RAM\nDimensity 7300 Energy",
+      "5000mAh\n80W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "LAUNCH": {
+        "Announced": "Not announced yet",
+        "Status": "Rumored"
+      },
+      "BODY": {
+        "Dimensions": "161.7 x 74.7 x 7.6 mm (6.37 x 2.94 x 0.30 in)",
+        "Weight": "185 g (6.53 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "": "IP65 dust tight and water resistant (low pressure water jets)"
+      },
+      "DISPLAY": {
+        "Type": "OLED, 1B colors, 120Hz, 2000 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Unspecified"
+      },
+      "PLATFORM": {
+        "OS": "Android 15, Realme UI 6.0",
+        "Chipset": "Mediatek Dimensity 7300 Energy (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "": "UFS"
+      },
+      "MAIN CAMERA": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", PDAF, OIS\n2 MP, (depth)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+      },
+      "SELFIE CAMERA": {
+        "Single": "16 MP, (wide)",
+        "Video": "Yes"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Unspecified",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "BATTERY": {
+        "Type": "5000 mAh",
+        "Charging": "80W wired"
+      },
+      "MISC": {
+        "Colors": "Satin Green, Glitter Gold, Electric Purple"
+      }
+    }
+  },
+  {
+    "name": "Motorola Moto G36",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g56.jpg",
+    "highlights": [
+      "Released Not announced yet\n210g, 8.7mm thickness\nAndroid 15\n128GB/256GB/512GB storage, microSDXC",
+      "11%\n20,477 HITS",
+      "10\nBECOME A FAN",
+      "6.72\"\n1080x2400 pixels",
+      "50MP\n2160p",
+      "4-12GB RAM",
+      "7000mAh\n33W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "LAUNCH": {
+        "Announced": "Not announced yet",
+        "Status": "Available"
+      },
+      "BODY": {
+        "Dimensions": "166.3 x 76.5 x 8.7 mm (6.55 x 3.01 x 0.34 in)",
+        "Weight": "210 g (7.41 oz)",
+        "SIM": "Nano-SIM + eSIM\nNano-SIM + Nano-SIM",
+        "": "Water-repellent design"
+      },
+      "DISPLAY": {
+        "Type": "IPS LCD, 120Hz, HDR10, 1000 nits (peak)",
+        "Size": "6.72 inches, 109.0 cm2 (~85.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+        "Protection": "Unspecified"
+      },
+      "PLATFORM": {
+        "OS": "Android 15",
+        "CPU": "Octa-core 2.4 GHz"
+      },
+      "MEMORY": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 4GB RAM, 256GB 8GB RAM, 512GB 12GB RAM"
+      },
+      "MAIN CAMERA": {
+        "Dual": "50 MP, f/1.8 (wide), 0.64µm, PDAF\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "SELFIE CAMERA": {
+        "Single": "32 MP, f/2.2, (wide), 0.7µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "BATTERY": {
+        "Type": "7000 mAh",
+        "Charging": "33W wired"
+      },
+      "MISC": {
+        "Colors": "Black; other colors",
+        "Models": "XT2533-4"
+      }
+    }
+  },
+  {
+    "name": "Honor X5c Plus",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/honor-x5c-plus-r.jpg",
+    "highlights": [
+      "Not announced yet\n\nAndroid 15, MagicOS 9\n128GB storage, microSDXC",
+      "3.6%\n7,414 HITS",
+      "5\nBECOME A FAN",
+      "6.74\"\n720x1600 pixels",
+      "50MP\n1080p",
+      "4GB RAM\nHelio G81",
+      "5620mAh\n10W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "LAUNCH": {
+        "Announced": "Not announced yet",
+        "Status": "Rumored"
+      },
+      "BODY": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "": "Dust protected and water resistant (water splashes)"
+      },
+      "DISPLAY": {
+        "Type": "TFT LCD",
+        "Size": "6.74 inches, 109.7 cm2",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "PLATFORM": {
+        "OS": "Android 15, MagicOS 9",
+        "Chipset": "Mediatek Helio G81 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "MEMORY": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM"
+      },
+      "MAIN CAMERA": {
+        "Single": "50 MP, f/1.8, (wide), PDAF\n2 MP, (depth)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "SELFIE CAMERA": {
+        "Single": "5 MP, f/2.2, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "BATTERY": {
+        "Type": "5620 mAh",
+        "Charging": "10W wired"
+      },
+      "MISC": {
+        "Colors": "Black, Cyan, Silver",
+        "Price": "About 120 EUR"
+      }
+    }
+  },
+  {
+    "name": "Apple iPhone 17 Pro Max",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg",
+    "highlights": [
+      "Released 2025, September 19\n233g, 8.8mm thickness\niOS 26\n256GB/512GB/2TB storage, no card slot",
+      "94%\n3,027,639 HITS",
+      "262\nBECOME A FAN",
+      "6.9\"\n1320x2868 pixels",
+      "48MP\n2160p",
+      "12GB RAM\nApple A19 Pro",
+      "4832mAh\nPD3.225W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3527",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3526",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3526",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in)",
+        "Weight": "233 g (8.22 oz)",
+        "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+        "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International)\neSIM + eSIM (8 or more, max 2 at a time; USA)\nNano-SIM + Nano-SIM (China)",
+        "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.9 inches, 115.6 cm2 (~90.7% screen-to-body ratio)",
+        "Resolution": "1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5",
+        "": "Anti-reflective coating"
+      },
+      "PLATFORM": {
+        "OS": "iOS 26",
+        "Chipset": "Apple A19 Pro (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4xX.X GHz)",
+        "GPU": "Apple GPU (6-core graphics)"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM",
+        "": "NVMe"
+      },
+      "MAIN CAMERA": {
+        "Triple": "48 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
+      },
+      "SELFIE CAMERA": {
+        "Single": "18 MP multi-aspect, f/1.9, (wide), PDAF, OIS\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+      },
+      "FEATURES": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 4832 mAh - Nano SIM model\nLi-Ion 5088 mAh - eSIM only model",
+        "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+      },
+      "MISC": {
+        "Colors": "Silver, Cosmic Orange, Deep Blue",
+        "Models": "iPhone18,2, A3526, A3257, A3527, A3525",
+        "Price": "€ 1,449.00 / £ 1,199.00"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "53:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Apple iPhone Air",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-air.jpg",
+    "highlights": [
+      "Released 2025, September 19\n165g, 5.6mm thickness\niOS 26\n256GB/512GB/1TB storage, no card slot",
+      "55%\n2,229,613 HITS",
+      "133\nBECOME A FAN",
+      "6.5\"\n1260x2736 pixels",
+      "48MP\n2160p",
+      "12GB RAM\nApple A19 Pro",
+      "3149mAh\nPD2.020W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3518",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3517",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3517",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "156.2 x 74.7 x 5.6 mm (6.15 x 2.94 x 0.22 in)",
+        "Weight": "165 g (5.82 oz)",
+        "Build": "Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield)",
+        "SIM": "eSIM + eSIM (8 or more, max 2 at a time)",
+        "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.5 inches, 104.9 cm2 (~89.9% screen-to-body ratio)",
+        "Resolution": "1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5",
+        "": "Anti-reflective coating"
+      },
+      "PLATFORM": {
+        "OS": "iOS 26",
+        "Chipset": "Apple A19 Pro (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4xX.X GHz)",
+        "GPU": "Apple GPU (5-core graphics)"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+        "": "NVMe"
+      },
+      "MAIN CAMERA": {
+        "Single": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      "SELFIE CAMERA": {
+        "Single": "18 MP multi-aspect, f/1.9, (wide), PDAF, OIS\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "FEATURES": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 3149 mAh",
+        "Charging": "Wired, PD2.0, 50% in 30 min\n20 wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+      },
+      "MISC": {
+        "Colors": "Space Black, Cloud White, Light Gold, Sky Blue",
+        "Models": "iPhone18,4, A3517, A3260, A3518, A3516",
+        "Price": "€ 1,199.00 / £ 999.00"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "40:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Apple iPhone 17",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17.jpg",
+    "highlights": [
+      "Released 2025, September 19\n177g, 8mm thickness\niOS 26\n256GB/512GB storage, no card slot",
+      "58%\n905,050 HITS",
+      "126\nBECOME A FAN",
+      "6.3\"\n1206x2622 pixels",
+      "48MP\n2160p",
+      "8GB RAM\nApple A19",
+      "3692mAh\nPD3.225W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3521",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3520",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3520",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "149.6 x 71.5 x 8 mm (5.89 x 2.81 x 0.31 in)",
+        "Weight": "177 g (6.24 oz)",
+        "Build": "Glass front (Ceramic Shield 2), aluminum frame, glass back",
+        "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International)\neSIM + eSIM (8 or more, max 2 at a time; USA)\nNano-SIM + Nano-SIM (China)",
+        "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.3 inches, 96.4 cm2 (~90.1% screen-to-body ratio)",
+        "Resolution": "1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5"
+      },
+      "PLATFORM": {
+        "OS": "iOS 26",
+        "Chipset": "Apple A19 (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4xX.X GHz)",
+        "GPU": "Apple GPU (5-core graphics)"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM",
+        "": "NVMe"
+      },
+      "MAIN CAMERA": {
+        "Dual": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      "SELFIE CAMERA": {
+        "Single": "18 MP multi-aspect, f/1.9, (wide), PDAF, OIS\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, DisplayPort"
+      },
+      "FEATURES": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 3692 mAh",
+        "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+      },
+      "MISC": {
+        "Colors": "Black, White, Mist Blue, Sage, Lavender",
+        "Models": "iPhone18,3, A3520, A3258, A3519, A3521",
+        "Price": "€ 949.00 / £ 799.00"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "41:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Apple iPhone 17 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro.jpg",
+    "highlights": [
+      "Released 2025, September 19\n206g, 8.8mm thickness\niOS 26\n256GB/512GB/1TB storage, no card slot",
+      "42%\n825,209 HITS",
+      "98\nBECOME A FAN",
+      "6.3\"\n1206x2622 pixels",
+      "48MP\n2160p",
+      "12GB RAM\nApple A19 Pro",
+      "3988mAh\nPD3.225W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3524",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3523",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3523",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "150 x 71.9 x 8.8 mm (5.91 x 2.83 x 0.35 in)",
+        "Weight": "206 g (7.27 oz)",
+        "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+        "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International)\neSIM + eSIM (8 or more, max 2 at a time; USA)\nNano-SIM + Nano-SIM (China)",
+        "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.3 inches, 96.4 cm2 (~89.4% screen-to-body ratio)",
+        "Resolution": "1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5",
+        "": "Anti-reflective coating"
+      },
+      "PLATFORM": {
+        "OS": "iOS 26",
+        "Chipset": "Apple A19 Pro (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4xX.X GHz)",
+        "GPU": "Apple GPU (6-core graphics)"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+        "": "NVMe"
+      },
+      "MAIN CAMERA": {
+        "Triple": "48 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
+      },
+      "SELFIE CAMERA": {
+        "Single": "18 MP multi-aspect, f/1.9, (wide), PDAF, OIS\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+      },
+      "FEATURES": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 3988 mAh - Nano SIM model\nLi-Ion 4252 mAh - eSIM only model",
+        "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+      },
+      "MISC": {
+        "Colors": "Silver, Cosmic Orange, Deep Blue",
+        "Models": "iPhone18,1, A3256, A3523, A3522, A3524",
+        "Price": "€ 1,299.00 / £ 1,099.00"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "47:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Sony Xperia 10 VII",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-10-vii-.jpg",
+    "highlights": [
+      "Released 2025, September 19\n168g, 8.3mm thickness\nAndroid 15, up to 4 major Android upgrades\n128GB storage, microSDXC",
+      "31%\n164,977 HITS",
+      "79\nBECOME A FAN",
+      "6.1\"\n1080x2340 pixels",
+      "50MP\n2160p",
+      "8GB RAM\nSnapdragon 6 Gen 3",
+      "5000mAh\nPD"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 79 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 12",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "153 x 72 x 8.3 mm (6.02 x 2.83 x 0.33 in)",
+        "Weight": "168 g (5.93 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), plastic frame, plastic back",
+        "SIM": "Nano-SIM + eSIM\nNano-SIM + Nano-SIM",
+        "": "IP65/IP68 dust tight and water resistant (low pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "DISPLAY": {
+        "Type": "OLED, 1B colors, 120Hz, HDR",
+        "Size": "6.1 inches, 91.3 cm2 (~82.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 5",
+        "": "Triluminos display"
+      },
+      "PLATFORM": {
+        "OS": "Android 15, up to 4 major Android upgrades",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "MEMORY": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM",
+        "": "UFS"
+      },
+      "MAIN CAMERA": {
+        "Dual": "50 MP, f/1.9, 24mm (wide), 1/1.56\", PDAF, OIS\n13 MP, f/2.4, 16mm, 123˚ (ultrawide), 1/3.0\"",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "SELFIE CAMERA": {
+        "Single": "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "": "24-bit/192kHz Hi-Res & Hi-Res wireless audio"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "": "Circle to search"
+      },
+      "BATTERY": {
+        "Type": "5000 mAh",
+        "Charging": "Wired, PD, QC"
+      },
+      "MISC": {
+        "Colors": "White, Turquoise, Charcoal",
+        "Models": "XQ-FE54, XQZ-CBFE, xqfe54eukcl.gc, xqfe54eukcw.gc, xqfe54eukcb.gc",
+        "Price": "€ 449.00 / £ 399.00"
+      },
+      "OUR TESTS": {
+        "Performance": "AnTuTu: 600667 (v10)\nGeekBench: 2943 (v6)\n3DMark: 865 (Wild Life Extreme)",
+        "Display": "1064 nits max brightness (measured)",
+        "Loudspeaker": "-26.9 LUFS (Good)",
+        "Battery": "Active use score 12:57h"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:10h endurance, 1400 cycles",
+        "Free fall": "Class C (90 falls)",
+        "Repairability": "Class D"
+      }
+    }
+  },
+  {
+    "name": "Apple Watch Ultra 3",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra3.jpg",
+    "highlights": [
+      "Released 2025, September 19\n61.6g or 61.8g (black), 12mm thickness\nwatchOS 26\n64GB storage, no card slot",
+      "4.8%\n55,690 HITS",
+      "21\nBECOME A FAN",
+      "1.98\"\n514x422 pixels",
+      "NO",
+      "Apple S10",
+      ""
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "49 x 44 x 12 mm (1.93 x 1.73 x 0.47 in)",
+        "Weight": "61.6 g or 61.8 g (black) (2.15 oz)",
+        "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+        "SIM": "eSIM",
+        "": "IP6X certified\n100m water resistant (22810:2010)\n40m swimproof/diving (EN13319)\nMIL-STD-810H compliant\nECG certified (region dependent SW application; HW available on all models)"
+      },
+      "DISPLAY": {
+        "Type": "Retina LTPO3 OLED, 3000 nits (peak)",
+        "Size": "1.98 inches",
+        "Resolution": "514 x 422 pixels (~326 ppi density)",
+        "Protection": "Sapphire crystal glass",
+        "": "Wide-angle OLED"
+      },
+      "PLATFORM": {
+        "OS": "watchOS 26",
+        "Chipset": "Apple S10",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "CAMERA": {
+        "": "No"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with dual speakers (86-decibel)",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "FEATURES": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter (-500m to 9000m), compass, SpO2, VO2max, temperature (body), temperature (water)",
+        "": "Temperature sensing (0.01˚ accuracy)\nDepth gauge (±1m accuracy)\nUltra Wideband (UWB) support (gen2 chip)\nEmergency SOS via satellite"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion",
+        "Charging": "Wireless, 0-80% in 45 min"
+      },
+      "MISC": {
+        "Colors": "Natural, Black",
+        "Models": "A3281, A3282",
+        "Price": "€ 899.00"
+      }
+    }
+  },
+  {
+    "name": "Apple Watch Series 11",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch11.jpg",
+    "highlights": [
+      "Released 2025, September 19\n34.6g (42mm), 43.1g (46mm), 9.7mm thickness\nwatchOS 26\n64GB storage, no card slot",
+      "3.5%\n37,105 HITS",
+      "9\nBECOME A FAN",
+      "1.96\"\n496x416 pixels",
+      "NO",
+      "Apple S10",
+      ""
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "BODY": {
+        "Dimensions": "46 x 39 x 9.7 mm (1.81 x 1.54 x 0.38 in)",
+        "Weight": "34.6 g (42mm), 43.1 g (46mm) (1.52 oz)",
+        "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+        "SIM": "eSIM",
+        "": "IP6X certified\n50m water resistant\nECG certified (region dependent SW application; HW available on all models)\nDepth gauge to 6m"
+      },
+      "DISPLAY": {
+        "Type": "Retina LTPO3 OLED, 2000 nits (peak)",
+        "Size": "1.96 inches",
+        "Resolution": "496 x 416 pixels (~330 ppi density)",
+        "Protection": "Sapphire crystal glass",
+        "": "Wide-angle OLED"
+      },
+      "PLATFORM": {
+        "OS": "watchOS 26",
+        "Chipset": "Apple S10",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "CAMERA": {
+        "": "No"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "FEATURES": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+        "": "Temperature sensing (0.01˚ accuracy)\nUltra Wideband (UWB) support (gen2 chip)\nMedia playback"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion",
+        "Charging": "Wireless, 0-80% in 30 min"
+      },
+      "MISC": {
+        "Colors": "Slate, Gold, Natural",
+        "Price": "€ 849.00"
+      }
+    }
+  },
+  {
+    "name": "Samsung Galaxy S25 FE",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-fe.jpg",
+    "highlights": [
+      "Released 2025, September 04\n190g, 7.4mm thickness\nAndroid 16, up to 7 major upgrades, One UI 8\n128GB/256GB/512GB storage, no card slot",
+      "33%\n819,965 HITS",
+      "141\nBECOME A FAN",
+      "6.7\"\n1080x2340 pixels",
+      "50MP\n4320p",
+      "8GB RAM\nExynos 2400",
+      "4900mAh\n45W15W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA/Sub6",
+        "Speed": "HSPA, LTE (CA), 5G"
+      },
+      "LAUNCH": {
+        "Announced": "2025, September 04",
+        "Status": "Available. Released 2025, September 04"
+      },
+      "BODY": {
+        "Dimensions": "161.3 x 76.6 x 7.4 mm (6.35 x 3.02 x 0.29 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame",
+        "SIM": "Nano-SIM\nNano-SIM + Nano-SIM\nNano-SIM + eSIM\neSIM + eSIM",
+        "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\nEnhanced armor aluminum frame"
+      },
+      "DISPLAY": {
+        "Type": "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 1900 nits (peak)",
+        "Size": "6.7 inches, 110.2 cm2 (~89.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus+, Mohs level 5"
+      },
+      "PLATFORM": {
+        "OS": "Android 16, up to 7 major Android upgrades, One UI 8",
+        "Chipset": "Exynos 2400 (4 nm)",
+        "CPU": "10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)",
+        "GPU": "Xclipse 940"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS\n8 MP, f/2.4, 75mm (telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 3x optical zoom\n12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR"
+      },
+      "SELFIE CAMERA": {
+        "Single": "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm",
+        "Video": "4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "": "Samsung DeX\nCircle to Search"
+      },
+      "BATTERY": {
+        "Type": "4900 mAh",
+        "Charging": "45W wired, PD, QC2, 65% in 30 min\n15W wireless, Qi2 compatible\nReverse wireless"
+      },
+      "MISC": {
+        "Colors": "Icyblue, Jetblack, Navy, White",
+        "Models": "SM-S731B, SM-S731B/DS",
+        "SAR EU": "0.54 W/kg (head)     1.57 W/kg (body)",
+        "Price": "$ 649.99 / € 749.00 / £ 649.00"
+      },
+      "OUR TESTS": {
+        "Performance": "AnTuTu: 1521140 (v10)\nGeekBench: 6948 (v6)\n3DMark: 4262 (Wild Life Extreme)",
+        "Display": "1247 nits max brightness (measured)",
+        "Loudspeaker": "-25.6 LUFS (Very good)",
+        "Battery": "Active use score 11:43h"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "42:37h endurance, 2000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "name": "Google Pixel 10 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg",
+    "highlights": [
+      "Released 2025, August 28\n207g, 8.5mm thickness\nAndroid 16, up to 7 major Android upgrades\n128GB/512GB/1TB storage, no card slot",
+      "15%\n898,751 HITS",
+      "143\nBECOME A FAN",
+      "6.3\"\n1280x2856 pixels",
+      "50MP\n4320p",
+      "16GB RAM\nGoogle Tensor G5",
+      "4870mAh\n30W15W"
+    ],
+    "specs": {
+      "NETWORK": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 29, 30, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - GEHN3",
+        "": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 258, 260, 261 SA/NSA/Sub6/mmWave - G4QUR",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 30, 38, 40, 46, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - GEHN3",
+        "Speed": "HSPA, LTE (CA), 5G"
+      },
+      "LAUNCH": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, August 28"
+      },
+      "BODY": {
+        "Dimensions": "152.8 x 72 x 8.5 mm (6.02 x 2.83 x 0.33 in)",
+        "Weight": "207 g (7.30 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM\neSIM + eSIM (8 or more, max 2 at a time; USA)",
+        "": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "DISPLAY": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2200 nits (HBM), 3300 nits (peak)",
+        "Size": "6.3 inches, 96.3 cm2 (~87.6% screen-to-body ratio)",
+        "Resolution": "1280 x 2856 pixels, 20:9 ratio (~495 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "PLATFORM": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G5 (3 nm)",
+        "CPU": "Octa-core (1x3.78 GHz Cortex-X4 & 5x3.05 GHz Cortex-A725 & 2x2.25 GHz Cortex-A520)",
+        "GPU": "PowerVR DXT-48-1536"
+      },
+      "MEMORY": {
+        "Card slot": "No",
+        "Internal": "128GB 16GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "": "UFS 3.1 - 128GB only\nUFS 4.0"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "SELFIE CAMERA": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "SOUND": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "COMMS": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "FEATURES": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+        "": "Ultra Wideband (UWB) support\nSatellite SOS service\nCircle to Search"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 4870 mAh",
+        "Charging": "30W wired, PD3.0, PPS, 55% in 30 min\n15W wireless (magnetic), Qi2\nReverse wired\nBypass charging"
+      },
+      "MISC": {
+        "Colors": "Moonstone, Jade, Porcelain, Obsidian",
+        "Models": "GEHN3, G4QUR, GN4F5",
+        "SAR": "0.99 W/kg (head)     0.99 W/kg (body)",
+        "SAR EU": "0.99 W/kg (head)     1.39 W/kg (body)",
+        "Price": "$ 999.00 / € 993.00 / £ 999.00 / ₹ 102,990"
+      },
+      "OUR TESTS": {
+        "Loudspeaker": "-25.7 LUFS (Very good)",
+        "Battery": "Active use score 9:53h"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "51:09h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    }
+  }
+]
