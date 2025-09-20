@@ -1,0 +1,42 @@
+{
+  "Camera": {
+    "Main camera:": "50 MP, f/1.8, (wide), PDAF",
+    "Flash:": "LED flash",
+    "Front:": "8 MP, f/2.2",
+    "Video recording:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "270 x 183 x 5.9 mm (10.63 x 7.20 x 0.23 in)",
+    "Weight:": "555 g (1.22 lb)",
+    "Colors:": "White, Greenery"
+  },
+  "Battery": {
+    "Type:": "Li-Po 10100 mAh",
+    "Charging:": "66W wired"
+  },
+  "Display": {
+    "Size:": "12.0 inches, 426.4 cm2 (~86.3% screen-to-body ratio)",
+    "Resolution:": "2800 x 1840 pixels, 3:2 ratio (~279 ppi density)",
+    "Technology:": "IPS LCD, 144Hz, 1000 nits (peak), HDR Vivid"
+  },
+  "Cellular": {
+    "5G:": "No cellular connectivity",
+    "SIM type:": "No"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 4.3",
+    "Processor:": "Octa-core",
+    "Internal storage:": "256GB 12GB RAM"
+  },
+  "Multimedia": {
+    "Speakers:": "Yes, with stereo speakers (6 speakers)",
+    "Headphones:": "No"
+  },
+  "Connectivity & Features": {
+    "USB:": "USB Type-C 3.1, OTG, magnetic accessory connector",
+    "Wi-Fi:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "Location:": "No",
+    "Sensors:": "Accelerometer, gyro, proximity (accessories only)"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+  "name": "Apple iPhone 17 Pro Max",
+  "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg",
+  "highlights": [
+    "Released 2025, September 19\n233g, 8.8mm thickness\niOS 26\n256GB/512GB/2TB storage, no card slot",
+    "94%\n3,066,339 HITS",
+    "266\nBECOME A FAN",
+    "6.9\"\n1320x2868 pixels",
+    "48MP\n2160p",
+    "12GB RAM\nApple A19 Pro",
+    "4832mAh\nPD3.225W"
+  ],
+  "specs": {
+    "NETWORK": {
+      "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+      "2G bands": "GSM 850 / 900 / 1800 / 1900",
+      "": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3527",
+      "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+      "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3526",
+      "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3526",
+      "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+    },
+    "LAUNCH": {
+      "Announced": "2025, September 09",
+      "Status": "Available. Released 2025, September 19"
+    },
+    "BODY": {
+      "Dimensions": "163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in)",
+      "Weight": "233 g (8.22 oz)",
+      "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+      "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International)\neSIM + eSIM (8 or more, max 2 at a time; USA)\nNano-SIM + Nano-SIM (China)",
+      "": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\nApple Pay (Visa, MasterCard, AMEX certified)"
+    },
+    "DISPLAY": {
+      "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+      "Size": "6.9 inches, 115.6 cm2 (~90.7% screen-to-body ratio)",
+      "Resolution": "1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density)",
+      "Protection": "Ceramic Shield 2, Mohs level 5",
+      "": "Anti-reflective coating"
+    },
+    "PLATFORM": {
+      "OS": "iOS 26",
+      "Chipset": "Apple A19 Pro (3 nm)",
+      "CPU": "Hexa-core (2x4.26 GHz + 4xX.X GHz)",
+      "GPU": "Apple GPU (6-core graphics)"
+    },
+    "MEMORY": {
+      "Card slot": "No",
+      "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM",
+      "": "NVMe"
+    },
+    "MAIN CAMERA": {
+      "Triple": "48 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+      "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+      "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
+    },
+    "SELFIE CAMERA": {
+      "Single": "18 MP multi-aspect, f/1.9, (wide), PDAF, OIS\nSL 3D, (depth/biometrics sensor)",
+      "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+      "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+    },
+    "SOUND": {
+      "Loudspeaker": "Yes, with stereo speakers",
+      "3.5mm jack": "No"
+    },
+    "COMMS": {
+      "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+      "Bluetooth": "6.0, A2DP, LE",
+      "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+      "NFC": "Yes",
+      "Radio": "No",
+      "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+    },
+    "FEATURES": {
+      "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+      "": "Ultra Wideband (UWB) support (gen2 chip)\nEmergency SOS, Messages and Find My via satellite"
+    },
+    "BATTERY": {
+      "Type": "Li-Ion 4832 mAh - Nano SIM model\nLi-Ion 5088 mAh - eSIM only model",
+      "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+    },
+    "MISC": {
+      "Colors": "Silver, Cosmic Orange, Deep Blue",
+      "Models": "iPhone18,2, A3526, A3257, A3527, A3525",
+      "Price": "€ 1,449.00 / £ 1,199.00"
+    },
+    "EU LABEL": {
+      "Energy": "Class A",
+      "Battery": "53:00h endurance, 1000 cycles",
+      "Free fall": "Class B (180 falls)",
+      "Repairability": "Class C"
+    }
+  }
+}
